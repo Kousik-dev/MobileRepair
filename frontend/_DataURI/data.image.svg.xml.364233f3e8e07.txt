@@ -1,0 +1,1 @@
+data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='575' height='495'%3E%3Cpath data-name='Polygon 69' d='M408.225 0a40 40 0 0 1 34.589 19.91l120.518 207.5a40 40 0 0 1 0 40.179L442.814 475.09A40 40 0 0 1 408.225 495h-241.45a40 40 0 0 1-34.589-19.91L11.668 267.59a40 40 0 0 1 0-40.179L132.186 19.91A40 40 0 0 1 166.775 0Z' fill='%23165df5'/%3E%3C/svg%3E
